@@ -5,10 +5,10 @@ Given User is on Retail website
 
 
 @Desktop
-Scenario: User will verify all items are present in Desktop tab
+Scenario: User will verify all items are present in Desktops tab
 When User click on Desktops tab
 And User click on show all desktops
-Then User should see all items are present  Desktop page
+Then User should see all items are present in Desktop page
 
 @Destop1
 Scenario: User add HP LP 3065 from Destops tab to the cart
