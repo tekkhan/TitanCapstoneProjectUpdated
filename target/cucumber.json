@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3999800,
+              "duration": 3000200,
               "status": "passed"
             },
             "line": 5,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 3126923600,
+              "duration": 3124734200,
               "status": "passed"
             },
             "line": 6,
@@ -35,7 +35,7 @@
           },
           {
             "result": {
-              "duration": 2278004900,
+              "duration": 2253545500,
               "status": "passed"
             },
             "line": 7,
@@ -47,20 +47,20 @@
           },
           {
             "result": {
-              "duration": 2212339200,
+              "duration": 2281502400,
               "status": "passed"
             },
             "line": 8,
-            "name": "User enter userName \u0027khan44555@tekschool.us\u0027 and password  \u0027jan12345\u0027",
+            "name": "User enter userName \u0027khan445553@tekschool.us\u0027 and password  \u0027jan12345\u0027",
             "match": {
               "arguments": [
                 {
-                  "val": "\u0027khan44555@tekschool.us\u0027",
+                  "val": "\u0027khan445553@tekschool.us\u0027",
                   "offset": 20
                 },
                 {
                   "val": "\u0027jan12345\u0027",
-                  "offset": 59
+                  "offset": 60
                 }
               ],
               "location": "stepDef.RetailStepDefinition.user_enter_user_name_and_password(java.lang.String,java.lang.String)"
@@ -69,7 +69,7 @@
           },
           {
             "result": {
-              "duration": 2386753300,
+              "duration": 2326245000,
               "status": "passed"
             },
             "line": 9,
@@ -81,7 +81,7 @@
           },
           {
             "result": {
-              "duration": 2091420100,
+              "duration": 2073968500,
               "status": "passed"
             },
             "line": 10,
@@ -94,11 +94,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-06-23T00:50:13.298Z",
+        "start_timestamp": "2022-06-23T16:47:36.046Z",
         "before": [
           {
             "result": {
-              "duration": 2754678000,
+              "duration": 2650623000,
               "status": "passed"
             },
             "match": {
@@ -106,70 +106,46 @@
             }
           }
         ],
-        "line": 24,
-        "name": "Edit your affilitate information from cheque method to Bank Transfer",
+        "line": 34,
+        "name": "Edit your account Information",
         "description": "",
-        "id": "retail-page;edit-your-affilitate-information-from-cheque-method-to-bank-transfer",
+        "id": "retail-page;edit-your-account-information",
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 3257959700,
-              "status": "passed"
+              "status": "undefined"
             },
-            "line": 25,
-            "name": "User click on \u0027Edit your affiliate information\u0027 links",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\u0027Edit your affiliate information\u0027",
-                  "offset": 14
-                }
-              ],
-              "location": "stepDef.RetailStepDefinition.user_click_on_link1(java.lang.String)"
-            },
+            "line": 35,
+            "name": "User click on \u0027Edit your account information\u0027 link2",
+            "match": {},
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 3076349700,
-              "status": "passed"
+              "status": "skipped"
             },
-            "line": 26,
-            "name": "User click on Bank Transfer radio button",
+            "line": 36,
+            "name": "User modify below information",
             "match": {
-              "location": "stepDef.RetailStepDefinition.user_click_on_bank_transfar_radio_button()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 3467056700,
-              "status": "passed"
-            },
-            "line": 27,
-            "name": "User fill Bank information with below information",
-            "match": {
-              "location": "stepDef.RetailStepDefinition.user_fill_bank_information_with_below_information_bankName_abaNumber_swiftcode_accountName_accountNumber(io.cucumber.datatable.DataTable)"
+              "location": "stepDef.RetailStepDefinition.user_modify_below_information(io.cucumber.datatable.DataTable)"
             },
             "rows": [
               {
                 "cells": [
-                  "bankName",
-                  "abaNumber",
-                  "swiftCode",
-                  "accountName",
-                  "accountNumber"
+                  "fristName",
+                  "lastName",
+                  "email",
+                  "telephone"
                 ]
               },
               {
                 "cells": [
-                  "Wells Fargo",
-                  "12345",
-                  "12345",
-                  "baba",
-                  "12345678910"
+                  "lala",
+                  "kaka",
+                  "lalakaka@gmail.com",
+                  "1122334455"
                 ]
               }
             ],
@@ -177,26 +153,22 @@
           },
           {
             "result": {
-              "duration": 2324052400,
-              "status": "passed"
+              "status": "skipped"
             },
-            "line": 30,
-            "name": "User click on Continiue button",
+            "line": 39,
+            "name": "User click on continiue button",
             "match": {
-              "location": "stepDef.RetailStepDefinition.user_click_on_continiue_button()"
+              "location": "stepDef.RetailStepDefinition.user_click_on_continue_button()"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 2062275200,
-              "status": "passed"
+              "status": "skipped"
             },
-            "line": 31,
-            "name": "User should see a success message",
-            "match": {
-              "location": "stepDef.RetailStepDefinition.user_should_see_a_success_message()"
-            },
+            "line": 40,
+            "name": "User should see a message \u0027Success:Your account has been successfully updated\u0027",
+            "match": {},
             "keyword": "Then "
           }
         ],
@@ -205,7 +177,7 @@
             "name": "@retail12"
           },
           {
-            "name": "@retail1"
+            "name": "@retail2"
           }
         ]
       }

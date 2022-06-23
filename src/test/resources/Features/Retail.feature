@@ -5,7 +5,7 @@ Background:
 Given User is on Retail website
 And User click  on MyAccount
 When User click on Login 
-And User enter userName 'khan44555@tekschool.us' and password  'jan12345'     
+And User enter userName 'khan445553@tekschool.us' and password  'jan12345'     
 And User click on Login button
 Then User should be logged in to MyAccount dashboard
 
@@ -32,7 +32,7 @@ Then User should see a success message
 
 @retail2
 Scenario: Edit your account Information
-When User click on 'Edit your account information' link
+When User click on 'Edit your account information' link2
 And User modify below information
 |fristName|lastName|email|telephone|
 |lala|kaka|lalakaka@gmail.com|1122334455|

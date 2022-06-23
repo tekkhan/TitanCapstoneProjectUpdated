@@ -12,7 +12,7 @@ import io.cucumber.junit.CucumberOptions;
 		features = ".\\src\\test\\resources\\Features", 
 		glue = "stepDef",
 		dryRun = false,
-		tags ="@retail1",
+		tags ="@retail2",
 		monochrome = true, 
 		strict = true, 
 		plugin = {"pretty","html:target/site/cucumber-pretty","json:target/cucumber.json"},

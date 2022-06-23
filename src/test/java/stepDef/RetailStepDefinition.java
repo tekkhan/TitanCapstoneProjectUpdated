@@ -192,18 +192,39 @@ try {
 
 }
 
+//Edit account information
 
 
+@When("User click on (String) link2")
+public void user_click_on_link2(String editAccountInformation){
+retail.clickOnLink2();
+logger.info("user clicked on edit account information link");
 
-
+}
 
 @And("User modify below information")
-public void user_modify_below_information() {
+public void user_modify_below_information(DataTable dataTable) {
+List<Map<String, String>>Edit= dataTable.asMaps(String.class, String.class);
+retail.firstNameEdit(Edit.get(0).get("fristName"),Edit.get(0).get("lastName"), Edit.get(0).get("email"), Edit.get(0).get("telephone"));
+logger.info("user entered all important info");
+try {
+	Thread.sleep(3000);
+} catch (InterruptedException e) {
+	// TODO Auto-generated catch block
+	e.printStackTrace();
 }
+}
+@And("User click on continiue button")
+public void user_click_on_continue_button() {
+retail.clickOnContinueButton();
+logger.info("user clicked on continue button gently");
+}
+
 
 @Then("User should see a message 'Success:Your account has been successfully updated'")
 public void user_should_see_a_message_success_account_has_been_successfully_updated() {
-
+retail.successMessageshown();
+logger.info("success message has been displayed");
 	
 	
 	

@@ -241,7 +241,58 @@ banktransferOption.click();
 
 }
 
+
+//Edit your account information
+
+@FindBy(xpath ="//*[@id=\"content\"]/ul[1]/li[1]/a")
+private WebElement editAccountInformation;
+
+@FindBy(id = "input-firstname")
+private WebElement editFirstName;
+
+@FindBy(id = "input-lastname")
+private WebElement editLastName;
+
+@FindBy(id = "input-email")
+private WebElement editEmail;
+
+@FindBy(id = "input-telephone")
+private WebElement editPhone;
+
+@FindBy(xpath = "//input[@value='Continue']")
+private WebElement continueButtonClick;
+
+
+@FindBy(xpath = "//*[@id=\"account-account\"]/div[1]")
+private WebElement successMessage1;
+
+
+
+public void clickOnLink2() {
+editAccountInformation.click();
 }
+
+public void firstNameEdit(String firstName, String lastName, String email, String telephone) {
+editFirstName.sendKeys(firstName);
+editLastName.sendKeys(lastName);
+editEmail.sendKeys(email);
+editPhone.sendKeys(telephone);
+}
+
+public void clickOnContinueButton() {
+continueButtonClick.click();
+}
+
+
+
+
+public boolean successMessageshown() {
+if(successMessage1.isDisplayed())
+return true;
+else
+return false;
+
+}}
 
 
 
