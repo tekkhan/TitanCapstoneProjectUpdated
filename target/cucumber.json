@@ -1,6 +1,6 @@
 [
   {
-    "line": 2,
+    "line": 1,
     "elements": [
       {
         "line": 4,
@@ -11,94 +11,48 @@
         "steps": [
           {
             "result": {
-              "duration": 3000200,
+              "duration": 3138971900,
               "status": "passed"
             },
             "line": 5,
             "name": "User is on Retail website",
             "match": {
-              "location": "stepDef.DesktopPageStepDefinition.user_is_on_retail_website()"
+              "location": "stepDef.RetailStepDefinition.user_is_on_retail_website()"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 3124734200,
+              "duration": 656130200,
               "status": "passed"
             },
             "line": 6,
-            "name": "User click  on MyAccount",
+            "name": "User click on Desktops tab",
             "match": {
-              "location": "stepDef.RetailStepDefinition.user_click_on_my_account()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 2253545500,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "User click on Login",
-            "match": {
-              "location": "stepDef.RetailStepDefinition.user_click_on_login()"
+              "location": "stepDef.DesktopPageStepDefinition.user_click_on_desktops_tab()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 2281502400,
+              "duration": 3793660000,
               "status": "passed"
             },
-            "line": 8,
-            "name": "User enter userName \u0027khan445553@tekschool.us\u0027 and password  \u0027jan12345\u0027",
+            "line": 7,
+            "name": "User click on show all desktops",
             "match": {
-              "arguments": [
-                {
-                  "val": "\u0027khan445553@tekschool.us\u0027",
-                  "offset": 20
-                },
-                {
-                  "val": "\u0027jan12345\u0027",
-                  "offset": 60
-                }
-              ],
-              "location": "stepDef.RetailStepDefinition.user_enter_user_name_and_password(java.lang.String,java.lang.String)"
+              "location": "stepDef.DesktopPageStepDefinition.user_click_on_show_all_desktops()"
             },
             "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 2326245000,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "User click on Login button",
-            "match": {
-              "location": "stepDef.RetailStepDefinition.user_click_on_login_button()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 2073968500,
-              "status": "passed"
-            },
-            "line": 10,
-            "name": "User should be logged in to MyAccount dashboard",
-            "match": {
-              "location": "stepDef.RetailStepDefinition.user_should_be_logged_in_to_my_account_dashboard()"
-            },
-            "keyword": "Then "
           }
         ]
       },
       {
-        "start_timestamp": "2022-06-23T16:47:36.046Z",
+        "start_timestamp": "2022-06-24T08:01:48.027Z",
         "before": [
           {
             "result": {
-              "duration": 2650623000,
+              "duration": 2891879200,
               "status": "passed"
             },
             "match": {
@@ -106,96 +60,38 @@
             }
           }
         ],
-        "line": 34,
-        "name": "Edit your account Information",
+        "line": 13,
+        "name": "User will verify all items are present in Desktop tab",
         "description": "",
-        "id": "retail-page;edit-your-account-information",
+        "id": "desktops-tab;user-will-verify-all-items-are-present-in-desktop-tab",
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "status": "undefined"
+              "duration": 3743532000,
+              "status": "passed"
             },
-            "line": 35,
-            "name": "User click on \u0027Edit your account information\u0027 link2",
-            "match": {},
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "status": "skipped"
-            },
-            "line": 36,
-            "name": "User modify below information",
+            "line": 14,
+            "name": "User should see all items are present  Desktop page",
             "match": {
-              "location": "stepDef.RetailStepDefinition.user_modify_below_information(io.cucumber.datatable.DataTable)"
+              "location": "stepDef.DesktopPageStepDefinition.user_should_see_all_items_are_present_desktop_page()"
             },
-            "rows": [
-              {
-                "cells": [
-                  "fristName",
-                  "lastName",
-                  "email",
-                  "telephone"
-                ]
-              },
-              {
-                "cells": [
-                  "lala",
-                  "kaka",
-                  "lalakaka@gmail.com",
-                  "1122334455"
-                ]
-              }
-            ],
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "status": "skipped"
-            },
-            "line": 39,
-            "name": "User click on continiue button",
-            "match": {
-              "location": "stepDef.RetailStepDefinition.user_click_on_continue_button()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "status": "skipped"
-            },
-            "line": 40,
-            "name": "User should see a message \u0027Success:Your account has been successfully updated\u0027",
-            "match": {},
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@retail12"
-          },
-          {
-            "name": "@retail2"
+            "name": "@Desktop"
           }
         ]
       }
     ],
-    "name": "Retail page",
+    "name": "Desktops Tab",
     "description": "",
-    "id": "retail-page",
+    "id": "desktops-tab",
     "keyword": "Feature",
-    "uri": "file:src/test/resources/Features/Retail.feature",
-    "tags": [
-      {
-        "name": "@retail12",
-        "type": "Tag",
-        "location": {
-          "line": 1,
-          "column": 1
-        }
-      }
-    ]
+    "uri": "file:src/test/resources/Features/DesktopPage.feature",
+    "tags": []
   }
 ]

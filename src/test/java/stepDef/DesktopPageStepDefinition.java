@@ -1,30 +1,63 @@
 package stepDef;
 
+import java.util.List;
+
+import org.junit.Assert;
+import org.openqa.selenium.WebElement;
+
 import core.Base;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import pageObjects.DesktopPageObject;
+import utilities.WebDriverUtility;
 
 public class DesktopPageStepDefinition extends Base{
 
-	@Given("User is on Retail website")
-	public void user_is_on_retail_website() {
-
-	}
+DesktopPageObject deskop = new DesktopPageObject();
+	
 	@When("User click on Desktops tab")
 	public void user_click_on_desktops_tab() {
-	  
+	    deskop.ClickOnDesktop();
+	    logger.info("user clicked on Desktop Tab");
+	    WebDriverUtility.takeScreenShot();  
 	}
 	@And("User click on show all desktops")
 	public void user_click_on_show_all_desktops() {
-	  
+	deskop.clickOnShowAllDesktops();
+	logger.info("user clicked on showAllDeskop");
+     WebDriverUtility.takeScreenShot();
+	 try {
+		Thread.sleep(3000);
+	} catch (InterruptedException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
 	}
+	}
+	
 	@Then("User should see all items are present  Desktop page")
 	public void user_should_see_all_items_are_present_desktop_page() {
-
+    List<WebElement> desktopsElements = deskop.desktopsItem();
+    for(WebElement element:desktopsElements) {
+    Assert.assertTrue(element.isDisplayed());
+    logger.info(element.getAttribute("title" + "is present"));
+    }
+	WebDriverUtility.takeScreenShot();
+    try {
+		Thread.sleep(3000);
+	} catch (InterruptedException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
 	}
 
+	
+	
+	
+	
+	
+	
 	@When("User click ADD TO CART option on HP LP3065 item")
 	public void user_click_add_to_cart_option_on_hp_lp3065_item() {
 	  

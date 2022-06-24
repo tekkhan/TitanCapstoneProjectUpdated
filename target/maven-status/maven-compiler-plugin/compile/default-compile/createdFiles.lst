@@ -1,2 +1,7 @@
+pageObjects\DesktopPageObject.class
 utilities\WebDriverUtility.class
+pageObjects\LaptopNoteBooksPageObject.class
+pageObjects\RetailPageObject.class
 core\Base.class
+utilities\CucumberReportingConfig.class
+pageObjects\HomePageObject.class

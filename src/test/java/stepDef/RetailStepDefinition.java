@@ -13,13 +13,14 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.HomePageObject;
 import pageObjects.RetailPageObject;
+import utilities.WebDriverUtility;
 
 public class RetailStepDefinition extends Base{
 
 RetailPageObject retail =  new RetailPageObject();
 
 
-@Given("Given User is on Retail website ")
+@Given("User is on Retail website")
 public void user_is_on_retail_website() {
 Assert.assertTrue(retail.isEnvironmentLogoPresent());
 logger.info("Evironment logo is present");
@@ -195,11 +196,11 @@ try {
 //Edit account information
 
 
-@When("User click on (String) link2")
-public void user_click_on_link2(String editAccountInformation){
+@When("User click on {string} link2")
+public void user_click_on_link2(String string) {
 retail.clickOnLink2();
 logger.info("user clicked on edit account information link");
-
+WebDriverUtility.takeScreenShot();
 }
 
 @And("User modify below information")
@@ -207,6 +208,7 @@ public void user_modify_below_information(DataTable dataTable) {
 List<Map<String, String>>Edit= dataTable.asMaps(String.class, String.class);
 retail.firstNameEdit(Edit.get(0).get("fristName"),Edit.get(0).get("lastName"), Edit.get(0).get("email"), Edit.get(0).get("telephone"));
 logger.info("user entered all important info");
+WebDriverUtility.takeScreenShot();
 try {
 	Thread.sleep(3000);
 } catch (InterruptedException e) {
@@ -221,11 +223,11 @@ logger.info("user clicked on continue button gently");
 }
 
 
-@Then("User should see a message 'Success:Your account has been successfully updated'")
-public void user_should_see_a_message_success_account_has_been_successfully_updated() {
-retail.successMessageshown();
+@Then("User should see a messagee {string}")
+public void user_should_see_a_messagee(String string){
+Assert.assertTrue(retail.isEditAccountInfoSuccessMessagePresent());
 logger.info("success message has been displayed");
-	
+WebDriverUtility.takeScreenShot();
 	
 	
 	

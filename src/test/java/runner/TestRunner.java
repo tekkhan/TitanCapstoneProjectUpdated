@@ -4,6 +4,7 @@ import org.junit.AfterClass;
 import org.junit.runner.RunWith;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
+import utilities.CucumberReportingConfig;
 
 
 @RunWith(Cucumber.class)
@@ -12,7 +13,7 @@ import io.cucumber.junit.CucumberOptions;
 		features = ".\\src\\test\\resources\\Features", 
 		glue = "stepDef",
 		dryRun = false,
-		tags ="@retail2",
+		tags ="@Desktop",
 		monochrome = true, 
 		strict = true, 
 		plugin = {"pretty","html:target/site/cucumber-pretty","json:target/cucumber.json"},
@@ -22,5 +23,8 @@ import io.cucumber.junit.CucumberOptions;
 
 public class TestRunner {  
 	
+	public void generateReport() {
+	CucumberReportingConfig.reportConfig();
+	}
 	
 }

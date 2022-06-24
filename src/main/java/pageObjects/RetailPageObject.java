@@ -45,6 +45,7 @@ public void clickOnLoginButton() {
 }
 
 public void enterEmail(String emailValue) {
+	emailInput.clear();
 	emailInput.sendKeys(emailValue);
 }
 
@@ -123,6 +124,7 @@ link.click();
 }
 
 public void enterCompanyName(String companyValue){
+	companyField.clear();
 companyField.sendKeys(companyValue);
 }
 
@@ -263,8 +265,8 @@ private WebElement editPhone;
 private WebElement continueButtonClick;
 
 
-@FindBy(xpath = "//*[@id=\"account-account\"]/div[1]")
-private WebElement successMessage1;
+@FindBy(xpath = "//*[@id='account-account']/div[1]")
+private WebElement successMessageEditAccountInfo;
 
 
 
@@ -273,9 +275,13 @@ editAccountInformation.click();
 }
 
 public void firstNameEdit(String firstName, String lastName, String email, String telephone) {
+editFirstName.clear();
 editFirstName.sendKeys(firstName);
+editLastName.clear();
 editLastName.sendKeys(lastName);
+editEmail.clear();
 editEmail.sendKeys(email);
+editPhone.clear();
 editPhone.sendKeys(telephone);
 }
 
@@ -286,11 +292,25 @@ continueButtonClick.click();
 
 
 
-public boolean successMessageshown() {
-if(successMessage1.isDisplayed())
-return true;
-else
-return false;
+//public boolean successMessageshown() {
+//if(successMessageEditAccountInfo.isDisplayed())
+//return true;
+//else
+//return false;
+public boolean isEditAccountInfoSuccessMessagePresent() {
+	// String actualSuccessMessage = successMessageEditAccountInfo.getText();
+	// String expectedSuccessMessage = " Success: Your account has been successfully
+	// updated.";
+	// if (actualSuccessMessage.equals(expectedSuccessMessage)) {
+	// return true;
+	// } else {
+	// return false;
+	// }
+	if (successMessageEditAccountInfo.isDisplayed()) {
+		return true;
+	} else {
+		return false;
+	}
 
 }}
 
