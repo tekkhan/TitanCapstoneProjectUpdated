@@ -157,7 +157,19 @@
 	else
 	return false;
 	}
-	}
+
+	public static void moveToEl(WebElement element) {
+	Actions action = new Actions(driver);
+	
+	action.moveToElement(element).build().perform();
+	}}
+	
+    
+     
+
+	
+	
+	
 	
 	
 	

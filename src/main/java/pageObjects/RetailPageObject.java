@@ -273,9 +273,13 @@ editAccountInformation.click();
 }
 
 public void firstNameEdit(String firstName, String lastName, String email, String telephone) {
+editFirstName.clear();
 editFirstName.sendKeys(firstName);
+editLastName.clear();
 editLastName.sendKeys(lastName);
+editEmail.clear();
 editEmail.sendKeys(email);
+editPhone.clear();
 editPhone.sendKeys(telephone);
 }
 

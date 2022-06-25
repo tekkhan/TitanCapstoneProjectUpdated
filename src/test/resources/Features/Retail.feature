@@ -5,7 +5,7 @@ Background:
 Given User is on Retail website
 And User click  on MyAccount
 When User click on Login 
-And User enter userName 'khan445553@tekschool.us' and password  'jan12345'     
+And User enter userName 'lalakaka@gmail.com' and password  '12345678'     
 And User click on Login button
 Then User should be logged in to MyAccount dashboard
 
@@ -27,7 +27,7 @@ And User click on Bank Transfer radio button
 And User fill Bank information with below information
 |bankName|abaNumber|swiftCode|accountName|accountNumber|
 |Wells Fargo|12345|12345|baba|12345678910|
-And User click on Continiue button
+And User click on Continue button
 Then User should see a success message
 
 @retail2
@@ -35,8 +35,7 @@ Scenario: Edit your account Information
 When User click on 'Edit your account information' link2
 And User modify below information
 |fristName|lastName|email|telephone|
-|lala|kaka|lalakaka@gmail.com|1122334455|
-And User click on continiue button
-Then User should see a message 'Success:Your account has been successfully updated'
-
+|lala|kaka|lalakaka212@gmail.com|1122334455|
+And User click on Continue button
+Then User should see a messagee 'Success: Your account has been successfully updated.'
 

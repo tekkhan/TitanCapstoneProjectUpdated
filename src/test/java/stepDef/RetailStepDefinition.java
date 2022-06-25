@@ -19,7 +19,7 @@ public class RetailStepDefinition extends Base{
 RetailPageObject retail =  new RetailPageObject();
 
 
-@Given("Given User is on Retail website ")
+@Given("User is on Retail website")
 public void user_is_on_retail_website() {
 Assert.assertTrue(retail.isEnvironmentLogoPresent());
 logger.info("Evironment logo is present");
@@ -90,6 +90,8 @@ Thread.sleep(2000);
 
 
 
+
+
 //affiliate scenario
 @When("User click on {string} link")
 public void user_click_on_link(String affiliateLink) throws InterruptedException {
@@ -97,8 +99,6 @@ retail.clickOnlink();
 logger.info("user clicked on affiliate link");
 Thread.sleep(2000);
 }
-
-
 
 
 @And("User will fill Affiliate form with below information")
@@ -115,9 +115,6 @@ Thread.sleep(2000);
 
 }
 
-
-
-
 @And("User should check on about us check box")
 public void user_should_check_on_about_us_check_box() throws InterruptedException {
 retail.enterCheckBoxValue();
@@ -126,17 +123,12 @@ Thread.sleep(2000);
 }
 
 
-
-
-@When("User click on Continiue button")
-public void user_click_on_continiue_button() throws InterruptedException {
-retail.contin();
+@When("User click on Continue button")
+public void user_click_on_continue_button() throws InterruptedException { 
+retail.clickOnContinueButton();
 logger.info("user clicked on continue button");
 Thread.sleep(2000);
 }
-
-
-
 
 
 @Then("User should see a success message")
@@ -148,8 +140,11 @@ Thread.sleep(2000);
 
 
 
+
+//EditAf
+
 @When("User click on {string} links")
-public void user_click_on_link1(String editaffiliatelink) {
+public void user_click_on_links(String editaffiliatelink) {
 retail.clickOnlink1();
 logger.info("user clicked on edit affiliate link");
 try {
@@ -172,9 +167,6 @@ try {
 }
 }
 
-
-
-
 @And("User fill Bank information with below information")
 public void user_fill_bank_information_with_below_information_bankName_abaNumber_swiftcode_accountName_accountNumber(DataTable dataTable) {
 List<Map<String,String>>detail= dataTable.asMaps(String.class,String.class);
@@ -192,10 +184,13 @@ try {
 
 }
 
+
+
+
 //Edit account information
 
 
-@When("User click on (String) link2")
+@When("User click on {string} link2")
 public void user_click_on_link2(String editAccountInformation){
 retail.clickOnLink2();
 logger.info("user clicked on edit account information link");
@@ -214,15 +209,15 @@ try {
 	e.printStackTrace();
 }
 }
-@And("User click on continiue button")
-public void user_click_on_continue_button() {
-retail.clickOnContinueButton();
-logger.info("user clicked on continue button gently");
-}
+//@And("User click on continiue button")
+//public void user_click_on_continue_button() {
+//retail.clickOnContinueButton();
+//logger.info("user clicked on continue button gently");
+//}
 
 
-@Then("User should see a message 'Success:Your account has been successfully updated'")
-public void user_should_see_a_message_success_account_has_been_successfully_updated() {
+@Then("User should see a messagee {string}")
+public void user_should_see_a_messagee(String string) {
 retail.successMessageshown();
 logger.info("success message has been displayed");
 	
