@@ -73,13 +73,77 @@ public class HomePageObject extends Base{
 			return false;
 	}
 
+	//----------
+	//NEW SCENARIO
 	
-	
+ @FindBy(xpath = "//span[text()='Currency']")
+ private WebElement clickOnCurrency;
+ 
+ 
+ @FindBy(xpath = "(//button[@type='button'])[1]")
+ private WebElement EuroOption;
+ 
+ @FindBy(xpath = "(//button[@type='button'])[2]")
+ private WebElement poundSterling;
+ 
+ @FindBy(xpath = "(//button[@type='button'])[3]")
+ private WebElement usDollar;
+ 
+ @FindBy(xpath = "(//button[@type='button'])[1]")
+ private WebElement EuroOptionValidation;
 
-	
+ 
+ 
+ 
+ public void clickOnCurrenyButton() {
+clickOnCurrency.click();
+
+ }
+
+public void chooseEuro() {
+if(!clickOnCurrency.equals("€ Euro")) {
+EuroOption.click();}
+else if(usDollar.equals("$ US Dollar")) {
+	usDollar.click();}else {
+		poundSterling.click();
+
+
+	}
+}
+public void EuroOption1() {
+	EuroOption.isDisplayed();
+}
+
+
+//New Scenario
+
+@FindBy(xpath = "//span[text()='Shopping Cart']")
+private WebElement UserClickOnShopingCart;
+
+
+@FindBy(xpath = "(//p[text()='Your shopping cart is empty!'])[2]")
+private WebElement shopinCartMessage;
+
+
+public void clickOnShopingCart() {
+UserClickOnShopingCart.click();
+
+}
+public boolean shopingCartMessage() {
+if(shopinCartMessage.isDisplayed()) 
+return true;
+else
+return false;
+		
+
+}}
+
+
+
+
 
     
-}
+
      
 		
 	

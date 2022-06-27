@@ -23,7 +23,7 @@ Feature: Home Page
     
     @shopingcart
     Scenario: User empty Shoping cart message displays
-    When User click on shopping cart
+    And User click on shopping cart
     Then "your shopping cart is empty!" message should display
     
     

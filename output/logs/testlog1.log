@@ -1,0 +1,336 @@
+2022-06-25 16:59:17,310 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from Cartstarted
+2022-06-25 16:59:20,951 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 16:59:24,601 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from CartFAILED
+2022-06-25 17:01:23,548 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from Cartstarted
+2022-06-25 17:01:27,269 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 17:01:31,086 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from CartFAILED
+2022-06-25 17:03:20,570 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from Cartstarted
+2022-06-25 17:03:24,095 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 17:03:27,179 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 17:03:31,130 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 17:03:35,490 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on macBook
+2022-06-25 17:03:59,558 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from CartFAILED
+2022-06-25 17:04:33,979 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from Cartstarted
+2022-06-25 17:04:37,992 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 17:04:41,100 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 17:04:45,263 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 17:04:50,206 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on macBook
+2022-06-25 17:04:53,571 [main] INFO .\src\test\resources\input\log4j.properties - user added it to cart
+2022-06-25 17:04:56,840 [main] INFO .\src\test\resources\input\log4j.properties - user saw a success message
+2022-06-25 17:04:59,882 [main] INFO .\src\test\resources\input\log4j.properties - user saw a good message
+2022-06-25 17:05:02,944 [main] INFO .\src\test\resources\input\log4j.properties - user added laptop
+2022-06-25 17:05:03,004 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on red button
+2022-06-25 17:05:03,983 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from CartFAILED
+2022-06-25 17:06:04,722 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from Cartstarted
+2022-06-25 17:06:10,185 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 17:06:13,298 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 17:06:17,912 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 17:06:23,140 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on macBook
+2022-06-25 17:06:26,435 [main] INFO .\src\test\resources\input\log4j.properties - user added it to cart
+2022-06-25 17:06:29,749 [main] INFO .\src\test\resources\input\log4j.properties - user saw a success message
+2022-06-25 17:06:32,791 [main] INFO .\src\test\resources\input\log4j.properties - user saw a good message
+2022-06-25 17:06:35,853 [main] INFO .\src\test\resources\input\log4j.properties - user added laptop
+2022-06-25 17:06:35,914 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on red button
+2022-06-25 17:06:36,838 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from CartFAILED
+2022-06-25 17:11:33,877 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from Cartstarted
+2022-06-25 17:11:37,371 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 17:11:40,468 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 17:11:44,602 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 17:11:50,111 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on macBook
+2022-06-25 17:11:53,462 [main] INFO .\src\test\resources\input\log4j.properties - user added it to cart
+2022-06-25 17:11:56,741 [main] INFO .\src\test\resources\input\log4j.properties - user saw a success message
+2022-06-25 17:11:59,795 [main] INFO .\src\test\resources\input\log4j.properties - user saw a good message
+2022-06-25 17:12:02,886 [main] INFO .\src\test\resources\input\log4j.properties - user added laptop
+2022-06-25 17:12:02,958 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on red button
+2022-06-25 17:12:03,860 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from CartFAILED
+2022-06-25 17:15:05,029 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from Cartstarted
+2022-06-25 17:15:14,980 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 17:15:18,088 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 17:15:31,921 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 17:15:44,085 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on macBook
+2022-06-25 17:15:47,341 [main] INFO .\src\test\resources\input\log4j.properties - user added it to cart
+2022-06-25 17:15:50,637 [main] INFO .\src\test\resources\input\log4j.properties - user saw a success message
+2022-06-25 17:15:53,675 [main] INFO .\src\test\resources\input\log4j.properties - user saw a good message
+2022-06-25 17:15:56,742 [main] INFO .\src\test\resources\input\log4j.properties - user added laptop
+2022-06-25 17:15:56,827 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on red button
+2022-06-25 17:15:57,780 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from CartFAILED
+2022-06-25 17:18:09,117 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from Cartstarted
+2022-06-25 17:18:13,872 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 17:18:16,977 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 17:18:20,881 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 17:18:25,439 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on macBook
+2022-06-25 17:18:28,708 [main] INFO .\src\test\resources\input\log4j.properties - user added it to cart
+2022-06-25 17:18:32,056 [main] INFO .\src\test\resources\input\log4j.properties - user saw a success message
+2022-06-25 17:18:35,108 [main] INFO .\src\test\resources\input\log4j.properties - user saw a good message
+2022-06-25 17:18:38,198 [main] INFO .\src\test\resources\input\log4j.properties - user added laptop
+2022-06-25 17:18:41,265 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on red button
+2022-06-25 17:18:43,328 [main] INFO .\src\test\resources\input\log4j.properties - value was zero in the cart
+2022-06-25 17:18:44,105 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from CartPASSED
+2022-06-25 17:40:18,431 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from Cartstarted
+2022-06-25 17:40:21,700 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 17:40:23,784 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 17:40:27,528 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 17:40:31,927 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on macBook
+2022-06-25 17:40:35,215 [main] INFO .\src\test\resources\input\log4j.properties - user added it to cart
+2022-06-25 17:40:38,503 [main] INFO .\src\test\resources\input\log4j.properties - user saw a success message
+2022-06-25 17:40:41,563 [main] INFO .\src\test\resources\input\log4j.properties - user saw a good message
+2022-06-25 17:40:44,639 [main] INFO .\src\test\resources\input\log4j.properties - user added laptop
+2022-06-25 17:40:47,713 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on red button
+2022-06-25 17:40:49,958 [main] INFO .\src\test\resources\input\log4j.properties - value was zero in the cart
+2022-06-25 17:40:50,762 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from CartPASSED
+2022-06-25 22:04:32,595 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from Cartstarted
+2022-06-25 22:04:39,854 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 22:04:41,969 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 22:04:46,000 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 22:04:50,874 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on macBook
+2022-06-25 22:04:54,117 [main] INFO .\src\test\resources\input\log4j.properties - user added it to cart
+2022-06-25 22:04:57,464 [main] INFO .\src\test\resources\input\log4j.properties - user saw a success message
+2022-06-25 22:05:00,498 [main] INFO .\src\test\resources\input\log4j.properties - user saw a good message
+2022-06-25 22:05:03,563 [main] INFO .\src\test\resources\input\log4j.properties - user added laptop
+2022-06-25 22:05:06,647 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on red button
+2022-06-25 22:05:08,954 [main] INFO .\src\test\resources\input\log4j.properties - value was zero in the cart
+2022-06-25 22:05:09,767 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from CartPASSED
+2022-06-25 22:47:45,279 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-25 22:47:49,176 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 22:47:51,282 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 22:47:55,376 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 22:47:59,799 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonUNDEFINED
+2022-06-25 22:55:08,758 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-25 22:55:12,815 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 22:55:14,937 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 22:55:19,064 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 22:55:22,564 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-25 22:55:26,223 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-25 22:55:30,791 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonUNDEFINED
+2022-06-25 23:09:19,109 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-25 23:09:22,522 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 23:09:24,744 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 23:09:28,826 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 23:09:32,284 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-25 23:09:35,677 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-25 23:09:39,086 [main] INFO .\src\test\resources\input\log4j.properties - user saw success message with no care
+2022-06-25 23:09:42,118 [main] INFO .\src\test\resources\input\log4j.properties - user saw the success message with a dam happy face
+2022-06-25 23:10:06,208 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonFAILED
+2022-06-25 23:10:18,611 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-25 23:10:22,060 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 23:10:24,144 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 23:10:28,029 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 23:10:31,438 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-25 23:10:34,844 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-25 23:10:38,274 [main] INFO .\src\test\resources\input\log4j.properties - user saw success message with no care
+2022-06-25 23:10:41,322 [main] INFO .\src\test\resources\input\log4j.properties - user saw the success message with a dam happy face
+2022-06-25 23:11:05,361 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonFAILED
+2022-06-25 23:12:17,631 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-25 23:12:20,961 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 23:12:23,058 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 23:12:26,912 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 23:12:30,354 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-25 23:12:33,724 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-25 23:12:37,143 [main] INFO .\src\test\resources\input\log4j.properties - user saw success message with no care
+2022-06-25 23:12:40,211 [main] INFO .\src\test\resources\input\log4j.properties - user saw the success message with a dam happy face
+2022-06-25 23:13:04,402 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonFAILED
+2022-06-25 23:17:45,341 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-25 23:17:48,741 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 23:17:50,817 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 23:17:54,648 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 23:17:58,056 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-25 23:18:01,443 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-25 23:18:04,862 [main] INFO .\src\test\resources\input\log4j.properties - user saw success message with no care
+2022-06-25 23:18:07,913 [main] INFO .\src\test\resources\input\log4j.properties - user saw the success message with a dam happy face
+2022-06-25 23:18:29,847 [main] INFO .\src\test\resources\input\log4j.properties - user saw aproval text with a sad face
+2022-06-25 23:18:33,672 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonPASSED
+2022-06-25 23:21:48,078 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-25 23:21:52,125 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 23:21:54,203 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 23:21:58,264 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 23:22:01,724 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-25 23:22:05,081 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-25 23:22:08,480 [main] INFO .\src\test\resources\input\log4j.properties - user saw success message with no care
+2022-06-25 23:22:11,536 [main] INFO .\src\test\resources\input\log4j.properties - user saw the success message with a dam happy face
+2022-06-25 23:22:35,528 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonFAILED
+2022-06-25 23:23:56,861 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-25 23:24:00,215 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 23:24:02,311 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 23:24:07,606 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 23:24:10,933 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-25 23:24:14,361 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-25 23:24:17,727 [main] INFO .\src\test\resources\input\log4j.properties - user saw success message with no care
+2022-06-25 23:24:20,797 [main] INFO .\src\test\resources\input\log4j.properties - user saw the success message with a dam happy face
+2022-06-25 23:24:44,899 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonFAILED
+2022-06-25 23:27:50,538 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-25 23:27:54,989 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 23:27:57,096 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 23:28:00,987 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 23:28:04,404 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-25 23:28:07,764 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-25 23:28:11,150 [main] INFO .\src\test\resources\input\log4j.properties - user saw success message with no care
+2022-06-25 23:28:14,193 [main] INFO .\src\test\resources\input\log4j.properties - user saw the success message with a dam happy face
+2022-06-25 23:28:38,145 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonFAILED
+2022-06-25 23:35:54,622 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-25 23:35:58,383 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 23:36:00,457 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 23:36:04,279 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 23:36:07,783 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-25 23:36:11,177 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-25 23:36:14,565 [main] INFO .\src\test\resources\input\log4j.properties - user saw success message with no care
+2022-06-25 23:36:17,625 [main] INFO .\src\test\resources\input\log4j.properties - user saw the success message with a dam happy face
+2022-06-25 23:36:41,713 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonFAILED
+2022-06-25 23:40:21,526 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-25 23:40:24,970 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 23:40:27,069 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 23:40:31,081 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 23:40:34,446 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-25 23:40:37,848 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-25 23:40:41,325 [main] INFO .\src\test\resources\input\log4j.properties - user saw success message with no care
+2022-06-25 23:40:44,390 [main] INFO .\src\test\resources\input\log4j.properties - user saw the success message with a dam happy face
+2022-06-25 23:41:08,481 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonFAILED
+2022-06-25 23:46:40,616 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-25 23:46:44,133 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 23:46:46,214 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 23:46:50,003 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 23:46:53,383 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-25 23:46:56,748 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-25 23:47:00,149 [main] INFO .\src\test\resources\input\log4j.properties - user saw success message with no care
+2022-06-25 23:47:03,196 [main] INFO .\src\test\resources\input\log4j.properties - user saw the success message with a dam happy face
+2022-06-25 23:47:27,289 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonFAILED
+2022-06-25 23:49:35,333 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-25 23:49:38,956 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 23:49:41,061 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 23:49:45,278 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 23:49:48,788 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-25 23:49:52,177 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-25 23:49:55,626 [main] INFO .\src\test\resources\input\log4j.properties - user saw success message with no care
+2022-06-25 23:49:58,692 [main] INFO .\src\test\resources\input\log4j.properties - user saw the success message with a dam happy face
+2022-06-25 23:50:22,666 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonFAILED
+2022-06-25 23:57:35,030 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdding an item to Wish liststarted
+2022-06-25 23:57:38,405 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-25 23:57:40,510 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-25 23:57:44,907 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-25 23:57:48,941 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdding an item to Wish listUNDEFINED
+2022-06-26 00:15:15,829 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdding an item to Wish liststarted
+2022-06-26 00:15:18,981 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-26 00:15:21,068 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-26 00:15:24,954 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-26 00:15:28,302 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on heart
+2022-06-26 00:15:31,375 [main] INFO .\src\test\resources\input\log4j.properties - user saw a good message
+2022-06-26 00:15:35,201 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdding an item to Wish listPASSED
+2022-06-26 08:49:31,054 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdding an item to Wish liststarted
+2022-06-26 08:49:34,351 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-26 08:49:36,434 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-26 08:49:40,107 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-26 08:49:43,488 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on heart
+2022-06-26 08:49:46,553 [main] INFO .\src\test\resources\input\log4j.properties - user saw a good message
+2022-06-26 08:49:50,284 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdding an item to Wish listPASSED
+2022-06-26 08:52:26,065 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioValidate the price of MacBook Pro IS 2000started
+2022-06-26 08:52:29,093 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-26 08:52:31,165 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-26 08:52:35,382 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-26 08:52:39,315 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioValidate the price of MacBook Pro IS 2000UNDEFINED
+2022-06-26 14:33:28,969 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioValidate the price of MacBook Pro IS 2000started
+2022-06-26 14:33:32,452 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-26 14:33:34,549 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-26 14:33:43,343 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-26 14:33:49,016 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MacBook pro 
+2022-06-26 14:33:52,111 [main] INFO .\src\test\resources\input\log4j.properties - user saw price with a dam sad and happy face
+2022-06-26 14:33:55,950 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioValidate the price of MacBook Pro IS 2000PASSED
+2022-06-26 14:36:53,089 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changestarted
+2022-06-26 14:37:26,231 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changeFAILED
+2022-06-26 14:38:00,745 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changestarted
+2022-06-26 14:38:04,175 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-26 14:38:07,973 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changeUNDEFINED
+2022-06-26 15:27:25,142 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changestarted
+2022-06-26 15:27:28,589 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-26 15:27:31,674 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on curency
+2022-06-26 15:27:35,129 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Euro 
+2022-06-26 15:27:38,983 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changeFAILED
+2022-06-26 15:30:07,384 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changestarted
+2022-06-26 15:30:10,723 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-26 15:30:13,817 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on curency
+2022-06-26 15:30:17,440 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Euro 
+2022-06-26 15:30:21,299 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changeFAILED
+2022-06-26 15:32:36,331 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changestarted
+2022-06-26 15:32:39,692 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-26 15:32:42,764 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on curency
+2022-06-26 15:32:46,248 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Euro 
+2022-06-26 15:32:50,169 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changeFAILED
+2022-06-26 15:38:23,273 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser empty Shoping cart message displaysstarted
+2022-06-26 15:38:26,707 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-26 15:38:30,515 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser empty Shoping cart message displaysUNDEFINED
+2022-06-26 22:14:27,735 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser empty Shoping cart message displaysstarted
+2022-06-26 22:14:31,982 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-26 22:14:35,717 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser empty Shoping cart message displaysUNDEFINED
+2022-06-26 22:15:14,987 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changestarted
+2022-06-26 22:15:17,960 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-26 22:15:21,053 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on curency
+2022-06-26 22:15:24,431 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Euro 
+2022-06-26 22:15:28,214 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changeFAILED
+2022-06-26 22:19:20,175 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser empty Shoping cart message displaysstarted
+2022-06-26 22:19:23,376 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-26 22:19:27,135 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser empty Shoping cart message displaysUNDEFINED
+2022-06-26 22:41:49,818 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser empty Shoping cart message displaysstarted
+2022-06-26 22:41:53,149 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-26 22:41:56,448 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on shoping cart
+2022-06-26 22:41:59,516 [main] INFO .\src\test\resources\input\log4j.properties - shoping cart message has been displayed
+2022-06-26 22:42:03,332 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser empty Shoping cart message displaysPASSED
+2022-06-26 23:04:31,180 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-26 23:04:34,217 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-26 23:04:36,296 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-26 23:04:40,014 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-26 23:04:43,398 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-26 23:04:46,715 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-26 23:04:50,049 [main] INFO .\src\test\resources\input\log4j.properties - user saw success message with no care
+2022-06-26 23:04:53,113 [main] INFO .\src\test\resources\input\log4j.properties - user saw the success message with a dam happy face
+2022-06-26 23:05:17,148 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonFAILED
+2022-06-26 23:11:30,936 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-26 23:11:34,557 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-26 23:11:36,675 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-26 23:11:40,555 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-26 23:11:44,038 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-26 23:11:47,419 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-26 23:11:50,876 [main] INFO .\src\test\resources\input\log4j.properties - user saw success message with no care
+2022-06-26 23:11:53,945 [main] INFO .\src\test\resources\input\log4j.properties - user saw the success message with a dam happy face
+2022-06-26 23:11:57,176 [main] INFO .\src\test\resources\input\log4j.properties - user saw aproval text with a sad face
+2022-06-26 23:12:00,000 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonPASSED
+2022-06-26 23:13:51,977 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-26 23:13:55,006 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-26 23:13:57,097 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-26 23:14:00,715 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-26 23:14:04,043 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-26 23:14:07,408 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-26 23:14:10,787 [main] INFO .\src\test\resources\input\log4j.properties - user saw success message with no care
+2022-06-26 23:14:13,853 [main] INFO .\src\test\resources\input\log4j.properties - user saw the success message with a dam happy face
+2022-06-26 23:14:17,070 [main] INFO .\src\test\resources\input\log4j.properties - user saw aproval text with a sad face
+2022-06-26 23:14:19,834 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonPASSED
+2022-06-26 23:15:22,220 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonstarted
+2022-06-26 23:15:25,249 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-26 23:15:27,315 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Laptop tab
+2022-06-26 23:15:31,545 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on show all note book
+2022-06-26 23:15:34,857 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Comparison link
+2022-06-26 23:15:38,256 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on AirBook Comparison Icon
+2022-06-26 23:15:41,672 [main] INFO .\src\test\resources\input\log4j.properties - user saw success message with no care
+2022-06-26 23:15:44,950 [main] INFO .\src\test\resources\input\log4j.properties - user saw the success message with a dam happy face
+2022-06-26 23:15:48,205 [main] INFO .\src\test\resources\input\log4j.properties - user saw aproval text with a sad face
+2022-06-26 23:15:50,961 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct comparisonPASSED
+2022-06-26 23:17:11,420 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changestarted
+2022-06-26 23:17:14,337 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-26 23:17:17,404 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on curency
+2022-06-26 23:17:20,750 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Euro 
+2022-06-26 23:17:24,528 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changeFAILED
+2022-06-26 23:19:29,031 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changestarted
+2022-06-26 23:19:32,257 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-26 23:19:35,318 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on curency
+2022-06-26 23:19:38,680 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Euro 
+2022-06-26 23:19:41,753 [main] INFO .\src\test\resources\input\log4j.properties - Euro should be displayed
+2022-06-26 23:19:45,455 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changePASSED
+2022-06-26 23:20:12,270 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changestarted
+2022-06-26 23:20:15,338 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-26 23:20:18,404 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on curency
+2022-06-26 23:20:21,774 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Euro 
+2022-06-26 23:20:24,839 [main] INFO .\src\test\resources\input\log4j.properties - Euro should be displayed
+2022-06-26 23:20:28,585 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changePASSED
+2022-06-26 23:39:43,426 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changestarted
+2022-06-26 23:39:47,079 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-26 23:39:50,156 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on curency
+2022-06-26 23:39:53,608 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Euro 
+2022-06-26 23:39:56,653 [main] INFO .\src\test\resources\input\log4j.properties - Euro should be displayed
+2022-06-26 23:40:00,440 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changePASSED

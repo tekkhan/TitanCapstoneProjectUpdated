@@ -20,30 +20,19 @@ RetailPageObject retail =  new RetailPageObject();
 
 
 @Given("User is on Retail website")
-public void user_is_on_retail_website() {
+public void user_is_on_retail_website() throws InterruptedException {
 Assert.assertTrue(retail.isEnvironmentLogoPresent());
 logger.info("Evironment logo is present");
-
-try {
-	Thread.sleep(3000);
-} catch (InterruptedException e) {
-	// TODO Auto-generated catch block
-	e.printStackTrace();
-}}
+Thread.sleep(2000);
+}
 
 @Given("User click  on MyAccount")
-public void user_click_on_my_account() {
+public void user_click_on_my_account() throws InterruptedException {
 retail.clickOnMyAccount();
 logger.info("user clicked on my account");
-try {
+
 	Thread.sleep(3000);
-} catch (InterruptedException e) {
-	// TODO Auto-generated catch block
-	e.printStackTrace();
 
-
-
-}
 }
 
 

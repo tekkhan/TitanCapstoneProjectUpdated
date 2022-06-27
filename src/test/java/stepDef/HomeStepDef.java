@@ -60,8 +60,69 @@ Thread.sleep(3000);
 		Assert.assertTrue(homePage.ismyAccountValidationPresent());
 		logger.info("user is on My Account Page");
        Thread.sleep(3000);
-	}}
+	}
 
+//--------
+//New Scenario
 
+@When("User click on Currency")
+public void user_click_on_currency() {
+homePage.clickOnCurrenyButton();
+logger.info("user clicked on curency");
+try {
+	Thread.sleep(3000);
+} catch (InterruptedException e) {
+	// TODO Auto-generated catch block
+	e.printStackTrace();
+}
 	
+	
+}
+@And("User Chose Euro from dropdown")
+public void user_chose_euro_from_dropdown() {
+homePage.chooseEuro();
+logger.info("user clicked on Euro ");
+try {
+	Thread.sleep(3000);
+} catch (InterruptedException e) {
+	// TODO Auto-generated catch block
+	e.printStackTrace();
+}
+}
 
+@Then("currency value should change to Euro")
+public void currency_value_should_change_to_euro() throws InterruptedException {
+homePage.EuroOption1();
+logger.info("Euro should be displayed");
+
+	Thread.sleep(3000);
+
+}
+
+//New Scenario
+
+
+@Given("User click on shopping cart")
+public void user_click_on_shopping_cart() {
+homePage.clickOnShopingCart();
+logger.info("user clicked on shoping cart");
+try {
+	Thread.sleep(3000);
+} catch (InterruptedException e) {
+	// TODO Auto-generated catch block
+	e.printStackTrace();
+}
+	
+}
+@Then("{string} message should display")
+public void message_should_display(String string) {
+Assert.assertTrue(homePage.shopingCartMessage());
+logger.info("shoping cart message has been displayed");
+try {
+	Thread.sleep(3000);
+} catch (InterruptedException e) {
+	// TODO Auto-generated catch block
+	e.printStackTrace();
+}
+
+}}

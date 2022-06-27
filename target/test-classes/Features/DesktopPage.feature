@@ -32,8 +32,8 @@ Feature: Desktops Tab
   Scenario: User add a review to Canon EOS 5D item in Desktop tab
     And User click on Canon EOS 5D item
     And User click on write a review link
-    And User fill teh review information with below information
+    And User fill the review information with below information
       | yourName     | yourReview      | Rating |
-      | khan1 khan12 | good experience | good   |
+      | khan1 | good experience with canon EOD Tekschool sacramento | 1   |
     And User click on continiue button
     Then User should see a message 'Thank you for your review .It has been submitted to the webmaster for approval'

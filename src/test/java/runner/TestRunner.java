@@ -12,10 +12,10 @@ import io.cucumber.junit.CucumberOptions;
 		features = ".\\src\\test\\resources\\Features", 
 		glue = "stepDef",
 		dryRun = false,
-		tags ="@Desktop12",
+		tags ="@Currency",
 		monochrome = true, 
 		strict = true, 
-		plugin = {"pretty","html:target/site/cucumber-pretty","json:target/cucumber.json"},
+		plugin = {"pretty","html:targ/site/cucumber-pretty","json:target/cucumber.json"},
 		publish = true 
 
 )

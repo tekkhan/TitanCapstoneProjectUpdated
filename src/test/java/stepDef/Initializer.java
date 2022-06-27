@@ -12,10 +12,9 @@ public class Initializer extends Base {
  openBrowser();
  }
 
-//@After
-//public  void afterHooks(Scenario scenario) {
-//driver.quit();
-//logger.info("Scenario" + scenario.getName()+ scenario.getStatus());
-//}
-//}
+@After
+public  void afterHooks(Scenario scenario) {
+driver.quit();
+logger.info("Scenario" + scenario.getName()+ scenario.getStatus());
+}
 }
