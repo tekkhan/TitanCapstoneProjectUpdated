@@ -334,3 +334,9 @@
 2022-06-26 23:39:53,608 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Euro 
 2022-06-26 23:39:56,653 [main] INFO .\src\test\resources\input\log4j.properties - Euro should be displayed
 2022-06-26 23:40:00,440 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changePASSED
+2022-06-30 17:04:06,347 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changestarted
+2022-06-30 17:04:19,807 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-30 17:04:22,899 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on curency
+2022-06-30 17:04:26,291 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Euro 
+2022-06-30 17:04:29,367 [main] INFO .\src\test\resources\input\log4j.properties - Euro should be displayed
+2022-06-30 17:04:33,166 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changePASSED
