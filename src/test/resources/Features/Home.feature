@@ -1,4 +1,4 @@
-
+@home
 Feature: Home Page
 
     Background:

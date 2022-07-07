@@ -157,6 +157,7 @@
 	else
 	return false;
 	}
+<<<<<<< HEAD
 
 	public static void moveToEl(WebElement element) {
 	Actions action = new Actions(driver);
@@ -170,8 +171,18 @@
 	
 	
 	
+=======
 	
 	
+	
+	
+	
+	
+	}
+>>>>>>> 7ab974ba53bdf9b80eb00e43804297bc00ce03ba
+	
+	
+
 	
 	
 	

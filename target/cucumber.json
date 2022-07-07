@@ -1,6 +1,6 @@
 [
   {
-    "line": 2,
+    "line": 1,
     "elements": [
       {
         "line": 4,
@@ -11,24 +11,66 @@
         "steps": [
           {
             "result": {
+<<<<<<< HEAD
               "duration": 3134000000,
+=======
+              "duration": 3138971900,
+>>>>>>> 7ab974ba53bdf9b80eb00e43804297bc00ce03ba
               "status": "passed"
             },
             "line": 5,
             "name": "User is on retail Website",
             "match": {
+<<<<<<< HEAD
               "location": "stepDef.HomeStepDef.user_is_on_retail_website()"
             },
             "keyword": "Given "
+=======
+              "location": "stepDef.RetailStepDefinition.user_is_on_retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 656130200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click on Desktops tab",
+            "match": {
+              "location": "stepDef.DesktopPageStepDefinition.user_click_on_desktops_tab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3793660000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click on show all desktops",
+            "match": {
+              "location": "stepDef.DesktopPageStepDefinition.user_click_on_show_all_desktops()"
+            },
+            "keyword": "And "
+>>>>>>> 7ab974ba53bdf9b80eb00e43804297bc00ce03ba
           }
         ]
       },
       {
+<<<<<<< HEAD
         "start_timestamp": "2022-07-01T00:04:06.087Z",
         "before": [
           {
             "result": {
               "duration": 13415000000,
+=======
+        "start_timestamp": "2022-06-24T08:01:48.027Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2891879200,
+>>>>>>> 7ab974ba53bdf9b80eb00e43804297bc00ce03ba
               "status": "passed"
             },
             "match": {
@@ -36,6 +78,7 @@
             }
           }
         ],
+<<<<<<< HEAD
         "line": 18,
         "name": "User verify currency values change",
         "description": "",
@@ -51,11 +94,18 @@
             }
           }
         ],
+=======
+        "line": 13,
+        "name": "User will verify all items are present in Desktop tab",
+        "description": "",
+        "id": "desktops-tab;user-will-verify-all-items-are-present-in-desktop-tab",
+>>>>>>> 7ab974ba53bdf9b80eb00e43804297bc00ce03ba
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
+<<<<<<< HEAD
               "duration": 3102000000,
               "status": "passed"
             },
@@ -87,22 +137,43 @@
             "name": "currency value should change to Euro",
             "match": {
               "location": "stepDef.HomeStepDef.currency_value_should_change_to_euro()"
+=======
+              "duration": 3743532000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User should see all items are present  Desktop page",
+            "match": {
+              "location": "stepDef.DesktopPageStepDefinition.user_should_see_all_items_are_present_desktop_page()"
+>>>>>>> 7ab974ba53bdf9b80eb00e43804297bc00ce03ba
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
+<<<<<<< HEAD
             "name": "@Currency"
+=======
+            "name": "@Desktop"
+>>>>>>> 7ab974ba53bdf9b80eb00e43804297bc00ce03ba
           }
         ]
       }
     ],
+<<<<<<< HEAD
     "name": "Home Page",
     "description": "",
     "id": "home-page",
     "keyword": "Feature",
     "uri": "file:src/test/resources/Features/Home.feature",
+=======
+    "name": "Desktops Tab",
+    "description": "",
+    "id": "desktops-tab",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/DesktopPage.feature",
+>>>>>>> 7ab974ba53bdf9b80eb00e43804297bc00ce03ba
     "tags": []
   }
 ]

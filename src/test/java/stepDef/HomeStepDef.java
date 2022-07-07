@@ -9,6 +9,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.HomePageObject;
+import utilities.WebDriverUtility;
 
 public class HomeStepDef extends Base {
 	HomePageObject homePage = new HomePageObject();
@@ -19,6 +20,7 @@ public class HomeStepDef extends Base {
 		Assert.assertTrue(homePage.isTestEnvironmentLogoPresent());
 		logger.info("user is on Retail Website");
 Thread.sleep(3000);
+WebDriverUtility.takeScreenShot();
 
 	} 
 

@@ -13,6 +13,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.HomePageObject;
 import pageObjects.RetailPageObject;
+import utilities.WebDriverUtility;
 
 public class RetailStepDefinition extends Base{
 
@@ -20,7 +21,11 @@ RetailPageObject retail =  new RetailPageObject();
 
 
 @Given("User is on Retail website")
+<<<<<<< HEAD
 public void user_is_on_retail_website() throws InterruptedException {
+=======
+public void user_is_on_retail_website() {
+>>>>>>> 7ab974ba53bdf9b80eb00e43804297bc00ce03ba
 Assert.assertTrue(retail.isEnvironmentLogoPresent());
 logger.info("Evironment logo is present");
 Thread.sleep(2000);
@@ -180,10 +185,14 @@ try {
 
 
 @When("User click on {string} link2")
+<<<<<<< HEAD
 public void user_click_on_link2(String editAccountInformation){
+=======
+public void user_click_on_link2(String string) {
+>>>>>>> 7ab974ba53bdf9b80eb00e43804297bc00ce03ba
 retail.clickOnLink2();
 logger.info("user clicked on edit account information link");
-
+WebDriverUtility.takeScreenShot();
 }
 
 @And("User modify below information")
@@ -191,6 +200,7 @@ public void user_modify_below_information(DataTable dataTable) {
 List<Map<String, String>>Edit= dataTable.asMaps(String.class, String.class);
 retail.firstNameEdit(Edit.get(0).get("fristName"),Edit.get(0).get("lastName"), Edit.get(0).get("email"), Edit.get(0).get("telephone"));
 logger.info("user entered all important info");
+WebDriverUtility.takeScreenShot();
 try {
 	Thread.sleep(3000);
 } catch (InterruptedException e) {
@@ -206,10 +216,15 @@ try {
 
 
 @Then("User should see a messagee {string}")
+<<<<<<< HEAD
 public void user_should_see_a_messagee(String string) {
 retail.successMessageshown();
+=======
+public void user_should_see_a_messagee(String string){
+Assert.assertTrue(retail.isEditAccountInfoSuccessMessagePresent());
+>>>>>>> 7ab974ba53bdf9b80eb00e43804297bc00ce03ba
 logger.info("success message has been displayed");
-	
+WebDriverUtility.takeScreenShot();
 	
 	
 	

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2022-06-25 16:59:17,310 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from Cartstarted
 2022-06-25 16:59:20,951 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
 2022-06-25 16:59:24,601 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and Remove a Mac book from CartFAILED
@@ -340,3 +341,159 @@
 2022-06-30 17:04:26,291 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Euro 
 2022-06-30 17:04:29,367 [main] INFO .\src\test\resources\input\log4j.properties - Euro should be displayed
 2022-06-30 17:04:33,166 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify currency values changePASSED
+=======
+2022-06-23 18:00:02,578 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioEdit your account Informationstarted
+2022-06-23 18:00:05,640 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-23 18:00:08,697 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on my account
+2022-06-23 18:00:11,995 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login option
+2022-06-23 18:00:14,208 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName lalakaka1234@gmail.com
+2022-06-23 18:00:14,289 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  jan12345
+2022-06-23 18:00:16,619 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on loginButton
+2022-06-23 18:00:18,694 [main] INFO .\src\test\resources\input\log4j.properties - my account is present
+2022-06-23 18:00:21,210 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on edit account information link
+2022-06-23 18:00:21,781 [main] INFO .\src\test\resources\input\log4j.properties - user entered all important info
+2022-06-23 18:00:25,124 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on continue button gently
+2022-06-23 18:00:25,178 [main] INFO .\src\test\resources\input\log4j.properties - success message has been displayed
+2022-06-23 18:10:20,280 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioEdit your account Informationstarted
+2022-06-23 18:10:23,585 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-23 18:10:26,654 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on my account
+2022-06-23 18:10:30,057 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login option
+2022-06-23 18:10:32,268 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName lalakaka1234@gmail.com
+2022-06-23 18:10:32,362 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  jan12345
+2022-06-23 18:10:34,673 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on loginButton
+2022-06-23 18:12:05,198 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioEdit your account Informationstarted
+2022-06-23 18:12:08,368 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-23 18:12:11,451 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on my account
+2022-06-23 18:12:15,124 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login option
+2022-06-23 18:12:17,346 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName lalakaka123456@gmail.com
+2022-06-23 18:12:17,448 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  jan12345
+2022-06-23 18:12:19,825 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on loginButton
+2022-06-23 19:28:23,034 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioEdit your account Informationstarted
+2022-06-23 19:28:26,006 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-23 19:28:29,082 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on my account
+2022-06-23 19:28:32,388 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login option
+2022-06-23 19:28:34,635 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName lalakaka1234561@gmail.com
+2022-06-23 19:28:34,737 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  jan12345
+2022-06-23 19:28:37,009 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on loginButton
+2022-06-23 19:30:46,357 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioEdit your account Informationstarted
+2022-06-23 19:30:49,207 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-23 19:30:52,287 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on my account
+2022-06-23 19:30:55,644 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login option
+2022-06-23 19:30:57,891 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName hahanana@gmail.com
+2022-06-23 19:30:58,003 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  hahanana
+2022-06-23 19:31:00,381 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on loginButton
+2022-06-23 19:31:02,450 [main] INFO .\src\test\resources\input\log4j.properties - my account is present
+2022-06-23 19:31:04,985 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on edit account information link
+2022-06-23 19:31:05,535 [main] INFO .\src\test\resources\input\log4j.properties - user entered all important info
+2022-06-23 19:31:08,849 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on continue button gently
+2022-06-23 19:31:08,893 [main] INFO .\src\test\resources\input\log4j.properties - success message has been displayed
+2022-06-23 19:33:42,461 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioEdit your account Informationstarted
+2022-06-23 19:33:45,489 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-23 19:33:48,578 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on my account
+2022-06-23 19:33:51,926 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login option
+2022-06-23 19:33:54,126 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName hahanana@gmail.com
+2022-06-23 19:33:54,244 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  hahanana
+2022-06-23 19:33:56,560 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on loginButton
+2022-06-23 22:55:40,634 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioEdit your account Informationstarted
+2022-06-23 22:55:43,632 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-23 22:55:46,756 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on my account
+2022-06-23 22:55:50,067 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login option
+2022-06-23 22:55:52,266 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName hahanana@gmail.com
+2022-06-23 22:55:52,364 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  hahanana
+2022-06-23 22:55:54,762 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on loginButton
+2022-06-23 23:01:17,989 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioEdit your account Informationstarted
+2022-06-23 23:01:20,733 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-23 23:01:23,793 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on my account
+2022-06-23 23:01:27,092 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login option
+2022-06-23 23:01:29,272 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName hahanana@gmail.com
+2022-06-23 23:01:29,374 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  hahanana
+2022-06-23 23:01:31,684 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on loginButton
+2022-06-23 23:04:46,479 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioEdit your account Informationstarted
+2022-06-23 23:04:49,187 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-23 23:04:52,257 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on my account
+2022-06-23 23:04:55,560 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login option
+2022-06-23 23:04:57,780 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName Jajalall@gmail.com
+2022-06-23 23:04:57,862 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  12345
+2022-06-23 23:05:00,262 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on loginButton
+2022-06-23 23:05:02,320 [main] INFO .\src\test\resources\input\log4j.properties - my account is present
+2022-06-23 23:05:04,834 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on edit account information link
+2022-06-23 23:05:05,638 [main] INFO .\src\test\resources\input\log4j.properties - user entered all important info
+2022-06-23 23:05:09,090 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on continue button gently
+2022-06-23 23:09:08,486 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioEdit your account Informationstarted
+2022-06-23 23:09:11,306 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-23 23:09:14,384 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on my account
+2022-06-23 23:09:17,679 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login option
+2022-06-23 23:09:19,874 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName Jajalall@gmail.com
+2022-06-23 23:09:19,971 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  12345
+2022-06-23 23:09:22,341 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on loginButton
+2022-06-23 23:09:24,397 [main] INFO .\src\test\resources\input\log4j.properties - my account is present
+2022-06-23 23:09:26,845 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on edit account information link
+2022-06-23 23:09:27,684 [main] INFO .\src\test\resources\input\log4j.properties - user entered all important info
+2022-06-23 23:09:31,166 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on continue button gently
+2022-06-23 23:10:30,197 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioEdit your account Informationstarted
+2022-06-23 23:10:33,328 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-23 23:10:36,389 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on my account
+2022-06-23 23:10:39,713 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login option
+2022-06-23 23:10:41,935 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName Jajalall@gmail.com
+2022-06-23 23:10:42,023 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  12345
+2022-06-23 23:10:44,339 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on loginButton
+2022-06-23 23:10:46,401 [main] INFO .\src\test\resources\input\log4j.properties - my account is present
+2022-06-23 23:10:49,314 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on edit account information link
+2022-06-23 23:10:50,114 [main] INFO .\src\test\resources\input\log4j.properties - user entered all important info
+2022-06-23 23:10:53,583 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on continue button gently
+2022-06-23 23:10:53,625 [main] INFO .\src\test\resources\input\log4j.properties - success message has been displayed
+2022-06-24 00:58:57,963 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser will verify all items are present in Desktop tabstarted
+2022-06-24 00:59:01,180 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-24 00:59:04,269 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Desktop Tab
+2022-06-24 00:59:05,252 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on showAllDeskop
+2022-06-24 00:59:08,696 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:08,736 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:08,773 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:08,808 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:08,840 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:08,876 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:08,913 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:08,946 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:08,980 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:09,017 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:09,052 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:09,083 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:09,118 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:09,153 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:37,049 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser will verify all items are present in Desktop tabstarted
+2022-06-24 00:59:39,938 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-24 00:59:43,014 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Desktop Tab
+2022-06-24 00:59:43,898 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on showAllDeskop
+2022-06-24 00:59:47,522 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:47,561 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:47,594 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:47,621 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:47,656 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:47,684 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:47,715 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:47,745 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:47,774 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:47,806 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:47,838 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:47,871 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:47,909 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 00:59:47,941 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 01:01:48,277 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser will verify all items are present in Desktop tabstarted
+2022-06-24 01:01:51,154 [main] INFO .\src\test\resources\input\log4j.properties - Evironment logo is present
+2022-06-24 01:01:54,228 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Desktop Tab
+2022-06-24 01:01:55,185 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on showAllDeskop
+2022-06-24 01:01:58,693 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 01:01:58,734 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 01:01:58,767 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 01:01:58,794 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 01:01:58,829 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 01:01:58,862 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 01:01:58,889 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 01:01:58,923 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 01:01:58,956 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 01:01:58,989 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 01:01:59,022 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 01:01:59,060 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 01:01:59,094 [main] INFO .\src\test\resources\input\log4j.properties - null
+2022-06-24 01:01:59,132 [main] INFO .\src\test\resources\input\log4j.properties - null
+>>>>>>> 7ab974ba53bdf9b80eb00e43804297bc00ce03ba
